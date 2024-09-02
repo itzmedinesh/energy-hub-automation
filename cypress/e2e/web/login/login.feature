@@ -32,5 +32,5 @@ And I should remain on the login page
 
 Examples:
 | username | password | errorMessage |
-| | validPass123! | Your username is invalid! |
-| student | | Your password is invalid! |
+| a | validPass123! | Your username is invalid! |
+| student | a | Your password is invalid! |
