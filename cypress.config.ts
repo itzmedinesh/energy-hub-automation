@@ -23,6 +23,7 @@ async function setupNodeEvents(
 
 export default defineConfig({
   e2e: {
+      projectId : 't6odup',
     specPattern: 'cypress/e2e/**/*.{feature,features}',
     reporter: 'mochawesome',
     reporterOptions: {
